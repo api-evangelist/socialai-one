@@ -1,4 +1,4 @@
-# socialai-one
+# Social AI
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-socialai-one is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://socialai.one/
+Social AI provides an AI‑powered platform for creating and managing online stores, group buying experiences, and digital storefronts. Users can launch a store in minutes using AI‑generated content, choose from templates, and integrate payment gateways without developer effort. The service includes AI chat, marketplace tools, and a buying‑group model where participants share costs and receive lay‑by options with no interest. Social AI also offers a full‑stack MCP for developers, including API access, webhooks, and AI generation via IDEs, targeting creators, businesses, and agencies.
+
+**Areas:** AI · E‑commerce · Platform · Storebuilder · Group‑buying
+
+## Social AI on APIs.io
+
+Everything profiled for Social AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/socialai-one/](https://apis.io/providers/socialai-one/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Social AI API](https://apis.io/apis/socialai-one/social-ai-api/) — API for Social AI platform, providing access to store management, AI generation, and MCP features.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Social AI Domain Security](https://apis.io/security/socialai-one/socialai-one-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Social AI Plans Pricing](https://apis.io/plans/socialai-one/socialai-one-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://socialai.one/)
+- [Pricing](https://socialai.one/pricing)
+- [Support](https://socialai.one/help)
+- [Blog](https://socialai.one/whats-new)
+- [Terms of service](https://socialai.one/terms)
+- [Privacy policy](https://socialai.one/privacy)
+
+## API Evangelist rating
+
+**Kin Score 16.1** — emerging · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 48.5 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/socialai-one/](https://apis.io/providers/socialai-one/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Social AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/socialai-one/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
